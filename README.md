@@ -9,3 +9,4 @@
 * Meme Generator: En Interaktiv React App til at generere sjove memes af billeder hentet fra et eksternt API. App'en bygger på Event Listeners, State, Conditional Rendering, Forms og Side Effects.
 <img width="500" alt="Skærmbillede 2024-09-15 kl  22 26 19" src="https://github.com/user-attachments/assets/a511d8ac-8d81-44a5-b5bf-c69f771aed01">
 
+* Toby's Notes App: En funktionel Notes App, der dynamisk opdaterer og gemmer data i en Firebase database. 
