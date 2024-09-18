@@ -10,4 +10,8 @@
 <img width="500" alt="Meme Generator" src="https://github.com/user-attachments/assets/a511d8ac-8d81-44a5-b5bf-c69f771aed01">
 
 * **Toby's Notes App:** En funktionel Notes App, der dynamisk opdaterer og gemmer data i en Firebase database. 
-<img width="500" alt="Skærmbillede 2024-09-18 kl  17 28 35" src="https://github.com/user-attachments/assets/ba15412f-0bb8-4b91-b084-c7c483072e84">
+<img width="500" alt="Note App" src="https://github.com/user-attachments/assets/ba15412f-0bb8-4b91-b084-c7c483072e84">
+
+* **Todo List App:** En funktionel Todo-liste applikation, hvor du kan tilføje, slette og markerer opgaver som afsluttet. Todo-listen gemmes i Local Storage.
+<img width="700" alt="Todo List" src="https://github.com/user-attachments/assets/8b82004a-080d-4546-8a46-fd93ce65f238">
+
