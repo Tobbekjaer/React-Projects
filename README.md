@@ -15,3 +15,5 @@
 * **Todo List App:** En funktionel Todo-liste applikation, hvor du kan tilføje, slette og markerer opgaver som afsluttet. Todo-listen gemmes i Local Storage.
 <img width="700" alt="Todo List" src="https://github.com/user-attachments/assets/8b82004a-080d-4546-8a46-fd93ce65f238">
 
+* **Tenzies Game:** Et sjov spil Tenzies, hvor du kan rulle og holde på terningerne indtil du har 10 ens.
+<img width="400" alt="Tenzies" src="https://github.com/user-attachments/assets/8726e001-2e15-426e-9604-dd3e51471833"> <img width="400" alt="Tenzies" src="https://github.com/user-attachments/assets/92f63810-589e-40b6-9d1a-d07cc526c376"> 
