@@ -18,4 +18,4 @@
 * **Tenzies Game:** Et sjov spil Tenzies, hvor du kan rulle og holde på terningerne indtil du har 10 ens.
 <img width="400" alt="Tenzies" src="https://github.com/user-attachments/assets/8726e001-2e15-426e-9604-dd3e51471833"> <img width="400" alt="Tenzies" src="https://github.com/user-attachments/assets/92f63810-589e-40b6-9d1a-d07cc526c376"> 
 
-* **React Router App:** En simpelt applikation bygget til at arbejde med navigation i en React applikation React Router. 
+* **React Router App:** En simpel applikation bygget til at arbejde med navigation i en React applikation React Router. 
